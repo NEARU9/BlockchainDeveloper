@@ -1,6 +1,6 @@
 # Blockchain Developer Journey
 
-https://nearu9.github.io/BlockchainDeveloper/
+[Explore My Progress](https://nearu9.github.io/BlockchainDeveloper/)
 
 This is my journey of learning to become a blockchain developer.
 
